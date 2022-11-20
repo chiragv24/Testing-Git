@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T18:34:55.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XQ_V8-vIQfAYY8enZ6GV" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T18:36:49.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cKmKEQqvHbCNSuA8S6_Y" version="20.2.1" type="github">
   <diagram id="_S1pbzhxDpslFRNUUIKj" name="Page-1">
-    <mxGraphModel dx="2202" dy="2626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2396" dy="2789" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,8 +183,8 @@
         <mxCell id="bS3ImlySAv6xkWLBc1iu-27" value="Train Key individuals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="304" y="1995" width="278" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bS3ImlySAv6xkWLBc1iu-28" value="Periodic checks and evaluation of process improvement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1350" width="280" height="60" as="geometry" />
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-28" value="Process Improvement Evaluation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2269" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS3ImlySAv6xkWLBc1iu-32" value="" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=#00FFD5;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="414" y="1246" width="38" height="38" as="geometry" />
@@ -369,6 +369,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="447" y="2065" as="sourcePoint" />
             <mxPoint x="330" y="2168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-88" value="KPI Definition and Milestones defined here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="603" y="1280" width="301.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-89" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bS3ImlySAv6xkWLBc1iu-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2218" as="sourcePoint" />
+            <mxPoint x="370" y="2168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-90" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;entryX=0.612;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bS3ImlySAv6xkWLBc1iu-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="552" y="2218" as="sourcePoint" />
+            <mxPoint x="672" y="2269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

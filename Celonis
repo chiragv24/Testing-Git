@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T17:44:13.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="S_Usgvcoh8HENMqNhBhe" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T17:48:06.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AcL3FPor1unZ6KKwOJ5O" version="20.2.1" type="github">
   <diagram id="_S1pbzhxDpslFRNUUIKj" name="Page-1">
     <mxGraphModel dx="2202" dy="2626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -124,16 +124,34 @@
           <mxGeometry x="261" y="-430" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bS3ImlySAv6xkWLBc1iu-6" value="Use Case Definition" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="308" y="-365" width="120" height="60" as="geometry" />
+          <mxGeometry x="233" y="-370" width="276" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bS3ImlySAv6xkWLBc1iu-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="308" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-7" value="Help Develop MVP&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="233" y="-273" width="278" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bS3ImlySAv6xkWLBc1iu-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="311" y="-176" width="120" height="60" as="geometry" />
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-8" value="Train Key individuals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="233" y="-176" width="278" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bS3ImlySAv6xkWLBc1iu-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="316" y="-68" width="120" height="60" as="geometry" />
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-9" value="Periodic checks and evaluation of process improvement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="233" y="-75" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bS3ImlySAv6xkWLBc1iu-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="372" y="-305" as="sourcePoint" />
+            <mxPoint x="422" y="-355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370.5" y="-205" as="sourcePoint" />
+            <mxPoint x="370.5" y="-173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="371.5" y="-112" as="sourcePoint" />
+            <mxPoint x="371.5" y="-80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T18:32:30.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="k9J6gmE3_55m6QhWboXn" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T18:34:55.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XQ_V8-vIQfAYY8enZ6GV" version="20.2.1" type="github">
   <diagram id="_S1pbzhxDpslFRNUUIKj" name="Page-1">
     <mxGraphModel dx="2202" dy="2626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
           <mxGeometry x="294" y="1479" width="278" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS3ImlySAv6xkWLBc1iu-27" value="Train Key individuals" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="308" y="1995" width="278" height="60" as="geometry" />
+          <mxGeometry x="304" y="1995" width="278" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bS3ImlySAv6xkWLBc1iu-28" value="Periodic checks and evaluation of process improvement" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="800" y="1350" width="280" height="60" as="geometry" />
@@ -302,6 +302,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-79" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="bS3ImlySAv6xkWLBc1iu-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="287" y="36" as="sourcePoint" />
+            <mxPoint x="181" y="89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-80" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bS3ImlySAv6xkWLBc1iu-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="36" as="sourcePoint" />
+            <mxPoint x="448" y="88" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="36" />
+              <mxPoint x="450" y="80" />
+              <mxPoint x="448" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bS3ImlySAv6xkWLBc1iu-65" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="433" y="1539" as="sourcePoint" />
@@ -334,6 +351,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="446" y="1965" as="sourcePoint" />
             <mxPoint x="445.5" y="1991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-81" value="Internal Ops Training" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2158" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-82" value="Leverage Celonis Network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="449" y="2158" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-85" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bS3ImlySAv6xkWLBc1iu-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437" y="2055" as="sourcePoint" />
+            <mxPoint x="487" y="2005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS3ImlySAv6xkWLBc1iu-87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#000000;entryX=0.549;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.536;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bS3ImlySAv6xkWLBc1iu-27" target="bS3ImlySAv6xkWLBc1iu-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447" y="2065" as="sourcePoint" />
+            <mxPoint x="330" y="2168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
